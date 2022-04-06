@@ -1,7 +1,8 @@
-// BFS algorithm in C
+// BFS algorithm in C++ 
 
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> 
+#include <cstdio> 
 #define SIZE 40
 
 struct queue {
