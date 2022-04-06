@@ -1,4 +1,5 @@
-#include<stdio.h>
+#include<stdio.h> 
+#include <cstdio> 
 int stack[100],choice,n,top,x,i;
 void push(void);
 void pop(void);
